@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 <!--
-**srikanthboppudi/srikanthboppudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**srikanthboppudi/srikanthboppudi** 
+I am Srikanth Boppudi
+I am from ongole
+My major in B-tech is computer science
+My major in masters is Applied computer science
+I have a work experience as junior data analyst at HCL technologies
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
