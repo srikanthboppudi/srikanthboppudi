@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+### Hi there 
 **srikanthboppudi/srikanthboppudi** 
 I am Srikanth Boppudi
 I am from ongole
